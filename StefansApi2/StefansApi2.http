@@ -1,0 +1,6 @@
+@StefansApi2_HostAddress = http://localhost:5158
+
+GET {{StefansApi2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
